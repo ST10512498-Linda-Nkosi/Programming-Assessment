@@ -1,2 +1,2 @@
 # Programming-Assessment
-ICETask 2 for programming
+A java program that checks for a person named Jack
